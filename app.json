@@ -1,14 +1,14 @@
 { 
-  "name": "XLICON MD",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
+  "name": "ELEGANCE STUDIO",
+  "description": "Elegance Studio is an game and app development company",
   "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys","Profilecorruptederror"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Elegance", "Elegance Studio","Elegance MD","theme bot","multi device","baileys","Profilecorruptederror"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "ProfileCorruptedError"
+      "value": "FALIX AND PRINCE"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -52,7 +52,7 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "false"
+     "value": "true"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -70,7 +70,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "Put Owner Number here"
+       "value": "919163670148"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
@@ -99,11 +99,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "XLICON-MD"
+    "value": "Elegance"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "Wa-BOT"
+    "value": "Studio"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
