@@ -1,19 +1,19 @@
 
 {
     "_JSON_": true,
-    "AUTHOR": "SALMAN AHMAD",
+    "AUTHOR": "william",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
         "updater": {
-            "UPDATE": "Your bot is already on latest version Baka!",
-            "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
-            "UPDATED_LOCAL": "Fresh Updates Installed!"
+            "UPDATE": "𝗟𝗼𝗼𝗸𝘀 𝗹𝗶𝗸𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮𝗹𝗿𝗲𝗮𝗱𝘆 𝗨𝗣𝗗𝗔𝗧𝗘𝗗",
+            "NEW_UPDATE": "𝗛𝗲𝘆 𝗺𝘆 𝗻𝗲𝘄 𝘂𝗽𝗱𝗮𝘁𝗲 𝘄𝗮𝘀 𝗵𝗲𝗿𝗲",
+            "UPDATED_LOCAL": "𝗨𝗽𝗱𝗮𝘁𝗲 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗲!"
         },
         "global": {
             "botName": " GOJO SATURO ",
             "body": " SUKAAMUNAA!! ",
-            "greet2" : "Hey Baka! I'm the strongest",
+            "greet2" : "𝗬𝗼 𝗻𝗶𝗴𝗴𝗮 𝗜'𝗺 𝘁𝗵𝗲 𝘀𝘁𝗿𝗼𝗻𝗴𝗲𝘀𝘁",
             "pic1": "https://telegra.ph/file/1ee748eead4fe9efadd1e.jpg",
             "pic2": "https://telegra.ph/file/8192328287664bf2caeb7.jpg",
             "pic3": "https://i.ibb.co/7yh3nd6/images.jpg",
@@ -26,32 +26,32 @@
             "emijii" : "🎍",
             "promote": "A new worthy Cursed skill arrived",
             "pmallow": "Hii,This is Gojo\n*The strongest Jujutsu Scocerer.*\nMy Brother is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n Powered by Xlicon-Md",
-            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by Xlicon-Md*",
-            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Powered by Xlicon-Md", 
-            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n Powered by Xlicon-Md",
+            "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n Powered by 𝗪𝗶𝗹𝗹𝗶𝗮𝗺",
+            "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. You have ${checkPermit.times} warning(s).\n\n *Powered by 𝗪𝗶𝗹𝗹𝗶𝗮𝗺*",
+            "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n Powered by 𝗪𝗶𝗹𝗹𝗶𝗮𝗺", 
+            "revoked" : "Hii ${tname} Sir\n\nYour pm permit permission has been prevoked now.\n\n Powered by 𝗪𝗶𝗹𝗹𝗶𝗮𝗺",
             "demote": "You are not Worthy",
-            "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
+            "antlink": "Link Detected.\n*𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗻𝗶𝗴𝗴𝗮*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 GOJO SATURO*",
-            "mention": " Please mention any user Baka!",
+            "mention": " Please mention someone to do that",
             "title": "GOJO SATURO",
-            "footer": "Baka! I'm Here!",
-            "by": "Made by: Xlicon Team",
+            "footer": "Yo bro I'm here",
+            "by": "Made by: Falix",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
-            "success": "Success ✓",
-            "dot": "Baka!, Why don't you try .help",
+            "success": "𝗦𝘂𝗰𝗲𝘀𝘀  ✅",
+            "dot": "𝗧𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗱𝗼𝗲𝘀𝗻'𝘁 𝗲𝘅𝗶𝘀𝘁 𝗮𝗻𝘆𝗺𝗼𝗿𝗲, 𝘁𝘆𝗽𝗲 .𝗵𝗲𝗹𝗽",
             "couple_male": "I'm sorry i didn't understand for so long",
             "couple_female": "Put everything in your soulders",
-            "admin": "𝑇ℎ𝑖𝑠 𝑐𝑜𝑚𝑚𝑎𝑛𝑑 𝑖𝑠 𝑜𝑛𝑙𝑦 𝑓𝑜𝑟 𝑔𝑟𝑜𝑢𝑝 𝐴𝑑𝑚𝑖𝑛⚠️!",
-            "botAdmin": "𝑃𝑙𝑒𝑎𝑠𝑒 𝑃𝑟𝑜𝑣𝑖𝑑𝑒 𝑚𝑒 𝐴𝑑𝑚𝑖𝑛 𝑅𝑜𝑙𝑒 .❗",
-            "owner": "𝐓𝐡𝐢𝐬 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐢𝐬 𝐨𝐧𝐥𝐲 𝐟𝐨𝐫 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
-            "group": "𝑻𝒉𝒊𝒔 𝑭𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒏𝒍𝒚 𝑭𝒐𝒓 𝑮𝒓𝒐𝒖𝒑𝒔❗",
-            "private": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 ⚠️",
-            "bot": "𝑻𝒉𝒊𝒔 𝒇𝒆𝒂𝒕𝒖𝒓𝒆 𝒊𝒏 𝒐𝒏𝒍𝒚 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒃𝒐𝒕 𝒏𝒖𝒎𝒃𝒆𝒓⚠️",
-            "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅"
+            "admin": "𝗧𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗰𝗮𝗻 𝘂𝘀𝗲 𝗼𝗻𝗹𝘆 𝗮𝗱𝗺𝗶𝗻⚠️!",
+            "botAdmin": "𝗣𝗹𝗲𝗮𝘀𝗲 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗺𝗲 𝗮𝗱𝗺𝗶𝗻 𝗮𝗻𝗱 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗲 .❗",
+            "owner": "𝗢𝗻𝗹𝘆 *Falix* 𝗰𝗮𝗻 𝘂𝘀𝗲 𝘁𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 ⚠️",
+            "group": "𝗧𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗼𝗻𝗹𝘆 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗹𝗲 𝗶𝗻 𝗴𝗿𝗼𝘂𝗽𝘀❗",
+            "private": "𝗢𝗻𝗹𝘆 *Falix* 𝗰𝗮𝗻 𝘂𝘀𝗲 𝘁𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 ⚠️",
+            "bot": "𝗧𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱 𝗼𝗻𝗹𝘆 𝗰𝗮𝗻 𝘂𝘀𝗲 𝗯𝗼𝘁 𝗵𝗶𝗺𝘀𝗲𝗹𝗳 ⚠️",
+            "wait": "[ 𝗣𝗢𝗦𝗦𝗘𝗦𝗦𝗜𝗡𝗚 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 ]"
         },
         "error": {
-            "text": "Task Failed"
+            "text": "𝗟𝗼𝗼𝗸𝘀 𝗹𝗶𝗸𝗲 𝗜'𝗺 𝗵𝗮𝘃𝗶𝗻𝗴 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀 𝘁𝗼 𝗽𝗿𝗼𝗰𝗲𝘀𝘀 𝘆𝗼𝘂𝗿 𝗿𝗲𝗾𝘂𝗲𝘀𝘁, 𝗽𝗹𝗲𝗮𝘀𝗲 𝘁𝗿𝘆 𝗮𝗴𝗮𝗶𝗻 𝗹𝗮𝘁𝗲𝗿"
         }
     }
   }
